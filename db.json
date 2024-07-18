@@ -22,7 +22,7 @@
     "url":"http://www.chuyan.tech/app-release.apk",
     "date":"2024-06-08"
   }
-  "ll": {
+  "check": {
     "versionCode":60,
     "versionNum":"1.1.7",
     "switch":1,
