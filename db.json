@@ -16,11 +16,11 @@
     "date":"2024-01-31"
   },
   "eureka": {
-    "versionCode":65,
-    "versionNum":"1.1.9",
-    "updateInfo":"·修复新增品种提交失败问题\n·锭子页面读取服务端查询配置\n·BugFix\n",
+    "versionCode":66,
+    "versionNum":"1.2.0",
+    "updateInfo":"·完善多语言\n·BugFix\n",
     "url":"http://www.chuyan.tech/app-release.apk",
-    "date":"2024-08-05"
+    "date":"2024-10-07"
   },
   "check": {
     "versionCode":60,
