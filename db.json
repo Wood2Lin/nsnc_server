@@ -16,11 +16,11 @@
     "date":"2024-01-31"
   },
   "eureka": {
-    "versionCode":71,
-    "versionNum":"1.2.5",
+    "versionCode":72,
+    "versionNum":"1.2.6",
     "updateInfo":"·机台详情增加新展示项并调整顺序\n·BugFix\n",
     "url":"https://download.huilinwang.com/4c9229c787dbc2979532a45abd54621a.apk?sign=4956eaffe318c68c624080031914c16e&sign2=21059b88776295695172bc2a071289c4&t=1736612747",
-    "date":"2025-01-10"
+    "date":"2025-07-20"
   },
   "check": {
     "versionCode":60,
